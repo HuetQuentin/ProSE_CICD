@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.9)
 set(CMAKE_C_STANDARD 99)
 
 # Project name
-set(ProSE_AllCircuits NexetupC)
+set(PROSE_PROJECT_NAME ProSE_AllCircuits)
 
 # Define projects
 project(${PROSE_PROJECT_NAME} C)
